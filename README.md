@@ -1,4 +1,12 @@
-# 👋 Hi there, I'm Rahul Pandey
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Hi%20there%2C%20I'm%20Rahul%20Pandey;A%20B.Tech%20CSE%20Graduate;I%20Love%20Piano%20and%20Coding!" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</p>
+
+---
 
 ## 🚀 About Me
 
@@ -35,21 +43,25 @@ This section showcases your non-technical skills and hobbies using emojis and cl
 
 ---
 
-## 📈 My GitHub Activity (Striking & Animated!)
+## 📈 My GitHub Activity (Dynamic and Animated)
 
-Since your commit history is still growing, we are adding visually impressive cards here:
+These cards are designed to look impressive, even if you are just starting out, using transparent backgrounds and strong themes.
+
+<div align="center">
 
 ### 🏆 GitHub Achievements
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rahulso1&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rahulso1&theme=darkhub&no-frame=true&no-bg=true&bg_color=00000000)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🌐 Language Breakdown
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulso1&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulso1&layout=compact&theme=gotham&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
 ## 📬 Connect with me:
 
 * **[GitHub Profile](https://github.com/Rahulso1)**
-* **[Email]**(mailto:youremail@example.com) (Replace with your email)
+* **[Email]**(mailto:youremail@example.com) (Replace with your email address)
