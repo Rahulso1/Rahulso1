@@ -35,8 +35,21 @@ This section showcases your non-technical skills and hobbies using emojis and cl
 
 ---
 
-## 📈 My GitHub Activity
+## 📈 My GitHub Activity (Striking & Animated!)
 
-Even without many code commits yet, you can show your general activity. You can add the animated card here when you want to show your stats:
+Since your commit history is still growing, we are adding visually impressive cards here:
 
-```markdown
+### 🏆 GitHub Achievements
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rahulso1&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🌐 Language Breakdown
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulso1&layout=compact&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📬 Connect with me:
+
+* **[GitHub Profile](https://github.com/Rahulso1)**
+* **[Email]**(mailto:youremail@example.com) (Replace with your email)
