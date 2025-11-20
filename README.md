@@ -45,8 +45,6 @@ This section showcases your non-technical skills and hobbies using emojis and cl
 
 ## 📈 My GitHub Activity (Dynamic and Animated)
 
-These cards are designed to look impressive, even if you are just starting out, using transparent backgrounds and strong themes.
-
 <div align="center">
 
 ### 🏆 GitHub Achievements
@@ -56,6 +54,14 @@ These cards are designed to look impressive, even if you are just starting out, 
 ### 🌐 Language Breakdown
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulso1&layout=compact&theme=gotham&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+### 🐍 My Commit Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rahulso1/Rahulso1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 </div>
 
